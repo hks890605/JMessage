@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[TURNSocket queryNextProxyCandidate]:TURNSocket.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[JSAppDelegate xmppStream:socketDidConnect:]:JSAppDelegate.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "socket.connectedHost">
+            </PersistentString>
+            <PersistentString
+               value = "socket.localHost">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[XMPPSIFileTransfer handleServiceDiscoveryRequest:]:XMPPSIFileTransfer.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[XMPPSIFileTransfer getIPAddress]:XMPPSIFileTransfer.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[JSAppDelegate connect]:JSAppDelegate.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[XMPPSIFileTransfer turnSocket:didSucceed:]:XMPPSIFileTransfer.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "socket.connectedHost">
+            </PersistentString>
+            <PersistentString
+               value = "socket.localHost">
+            </PersistentString>
+            <PersistentString
+               value = "socket.connectedPort">
+            </PersistentString>
+            <PersistentString
+               value = "socket.localPort">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

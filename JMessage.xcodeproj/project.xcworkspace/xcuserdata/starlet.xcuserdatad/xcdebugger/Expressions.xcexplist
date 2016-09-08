@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[JSAppDelegate sendToOtherDevice:receiverJid:]:JSAppDelegate.m">
+      </ContextState>
+      <ContextState
+         contextName = "+[TURNSocket isNewStartTURNRequest:]:TURNSocket.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "iq.requiresResponse">
+            </PersistentString>
+            <PersistentString
+               value = "iq.isResultIQ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__42-[XMPPCoreDataStorage myJIDForXMPPStream:]_block_invoke:XMPPCoreDataStorage.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[JSAppDelegate xmppStream:didReceiveIQ:]:JSAppDelegate.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "iq.isErrorIQ">
+            </PersistentString>
+            <PersistentString
+               value = "iq.isResultIQ">
+            </PersistentString>
+            <PersistentString
+               value = "iq.requiresResponse">
+            </PersistentString>
+            <PersistentString
+               value = "iq.type">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[RootViewController prepareForSegue:sender:]:RootViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "user.jid">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[JSAppDelegate xmppStream:didReceiveMessage:]:JSAppDelegate.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "ddLogLevel">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[JSAppDelegate xmppStream:didReceivePresence:]:JSAppDelegate.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "presence.type">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[XMPPSIFileTransfer turnSocket:didSucceed:]:XMPPSIFileTransfer.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
